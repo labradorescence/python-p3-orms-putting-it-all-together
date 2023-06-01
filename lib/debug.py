@@ -8,6 +8,8 @@ sql = """
 
 CURSOR.execute(sql)
 
+#import ipdb; ipdb.set_trace()
+
 Dog.create_table()
 joey = Dog("joey", "cocker spaniel")
 joey.save()
