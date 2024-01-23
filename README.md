@@ -14,6 +14,10 @@ records into objects in an object-oriented language.
 
 ***
 
+classes --- table/ models
+properties --- columns
+instance / object ---- a row
+
 ## Instructions
 
 This is a **test-driven lab**. Run `pipenv install` to create your virtual
